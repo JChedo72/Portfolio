@@ -1,2 +1,2 @@
 # Portfolio
-Several examples of the work I have done
+Several examples of the work that I have completed to showcase my abilities.
